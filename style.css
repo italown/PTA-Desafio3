@@ -1,0 +1,39 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    margin: auto;
+    background-color: #292929;
+}
+
+button{
+    all: unset;
+}
+
+h3{
+    margin: 40px 0px 20px 0px;
+    color: rgba(41, 41, 41, .8)
+}
+
+.logo{
+    display: block;
+    margin: 5% auto 10% auto;
+}
+
+.container{
+    display: block;
+    margin: auto;
+    height: 50%;
+    width: 60%;
+    background-color: #E5E5E5;
+    border-radius: 8px;
+    border: 3px #51E678 solid;
+    text-align: center;
+}
+
+.button{
+    cursor: pointer;
+    background-color: #51E678;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 15px 0px 40px 0px;
+}
